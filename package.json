@@ -1,0 +1,16 @@
+{
+  "name": "react-wp-converter",
+  "version": "1.0.0",
+  "description": "A simple converter from react to wordpress theme",
+  "main": "index.js",
+  "bin": {
+    "hello": "index.js"
+  },
+  "author": "Tafarry Goodman",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "inquirer": "^7.1.0",
+    "replace-in-file": "^6.0.0"
+  }
+}
